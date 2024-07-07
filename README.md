@@ -1,7 +1,11 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 
 # 💫 About Me:
 Welcome to my profile<br>I am a passionate data scientist and product enthusiast!<br>I do small side-projects to polish my skills from time to time<br>Feel free to check out my projects and reach out to me :)<br>
+
+[Download My Resume](https://github.com/kartik-99/kartik-99/raw/main/Kartik_J_Resume.pdf)
+
+[Currently learning LLMs and Langchain](https://github.com/kartik-99/textbookGPT)
 
 
 ## 🌐 Socials:
