@@ -21,11 +21,10 @@
 <br>
 
 
-# <img src="./assets/fire_cropped.gif" width="40">  About Me:
-Welcome to my profile<br>I am a passionate data scientist and product enthusiast!<br>I do small side-projects to polish my skills from time to time<br>Feel free to check out my projects and reach out to me :)<br>
+# <img src="./assets/fire_cropped.gif" width="40">  Welcome to my profile :)
+I am a passionate data scientist and product enthusiast!<br>I do small side-projects to polish my skills from time to time<br>Feel free to check out my projects and reach out to me :)<br>
 
 [Currently learning LLMs and Langchain](https://github.com/kartik-99/textbookGPT)
-
 
 
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Tech I worked with
