@@ -27,7 +27,10 @@ I am a passionate data scientist and product enthusiast!<br>I do small side-proj
 [Currently learning LLMs and Langchain](https://github.com/kartik-99/textbookGPT)
 
 
-# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Tech I worked with
+<h1 style="display: flex; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" style="margin-right: 10px;">
+  Tech I worked with
+</h1>
 
 | Category        | Skills        |
 |-----------------|---------------|
