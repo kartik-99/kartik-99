@@ -21,7 +21,7 @@
 <br>
 
 
-# <img src="./assets/fire_cropped.gif" width="40">  Welcome to my profile :)
+# <img src="./assets/fire_cropped.gif" width="40">  Welcome to my profile <img src="./assets/fire_cropped.gif" width="40"> 
 I am a passionate data scientist and product enthusiast!<br>I do small side-projects to polish my skills from time to time<br>Feel free to check out my projects and reach out to me :)<br>
 
 [Currently learning LLMs and Langchain](https://github.com/kartik-99/textbookGPT)
